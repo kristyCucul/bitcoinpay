@@ -1,0 +1,6 @@
+# Ignorar variables privadas
+backend/.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
